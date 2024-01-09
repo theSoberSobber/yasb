@@ -1,6 +1,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/denBot/yasb/main/img/yasb_icon.png" width="120"></p>
 <h2 align="center">Yasb - Yet Another Status Bar</h2>
 <p align="center">
+  pip install PyQt6 --force, if it doesn't work
   A highly configurable cross-platform (Windows) status bar written in Python.
   <br><br>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
