@@ -13,7 +13,7 @@ def add_index(dictionary: dict, dictionary_index: int) -> dict:
 class KomorebiClient:
     def __init__(
             self,
-            komorebic_path: str = "komorebic.exe",
+            komorebic_path: str = "controller.exe",
             timeout_secs: int = 0.5
     ):
         super().__init__()
